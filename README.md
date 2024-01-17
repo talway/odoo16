@@ -1,3 +1,8 @@
+
+```
+curl -s https://raw.gitmirror.com/talway/odoo16/master/run.sh | sudo bash -s odoo 10016 20016
+```
+
 # Installing Odoo 16.0 with one command (Supports multiple Odoo instances on one server).
 
 ## Quick Installation
